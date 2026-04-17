@@ -1,8 +1,24 @@
 # PeerBox
 
-**Private P2P file transfer — files never touch any server.**
+Encrypted peer-to-peer file transfer in your browser.
 
-PeerBox enables direct browser-to-browser file sharing with end-to-end encryption. No accounts, no uploads, no server storage.
+<img width="1364" height="767" alt="image" src="https://github.com/user-attachments/assets/d3589dfa-1c72-4962-a674-839658b5a09a" />
+
+## Features
+
+- End-to-end encrypted file transfers
+- Direct browser-to-browser connection (no server storage)
+- No accounts or uploads required
+- QR code room sharing
+- Supports large files via streaming
+
+## Tech Stack
+
+- Next.js 14
+- PeerJS (WebRTC signaling)
+- WebRTC Data Channels
+- ECDH + AES-GCM encryption
+- Tailwind CSS
 
 ## Quick Start
 
