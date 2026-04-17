@@ -2,6 +2,8 @@
 
 Encrypted peer-to-peer file transfer in your browser.
 
+<img width="1364" height="767" alt="image" src="https://github.com/user-attachments/assets/d3589dfa-1c72-4962-a674-839658b5a09a" />
+
 ## Features
 
 - End-to-end encrypted file transfers
