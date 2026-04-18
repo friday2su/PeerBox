@@ -59,7 +59,7 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ## Comparison: PeerBox vs Server-Based Solutions
 
-### Your Friend's Server Solution
+### Traditional Server
 
 ```javascript
 // Files go through server — server sees everything
